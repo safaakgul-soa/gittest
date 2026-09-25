@@ -4,3 +4,4 @@ branch 2. değişikliik
 br1 için değişiklik
 br1 için 2. değişiklik - add
 added on cloud
+added on local ot master
