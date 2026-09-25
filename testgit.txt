@@ -2,4 +2,4 @@ test data 22222vasd
 ek-1
 branch 2. değişikliik
 br1 için değişiklik
-br1 için 2. değişiklik
+br1 için 2. değişiklik - add
